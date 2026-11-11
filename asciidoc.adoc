@@ -1,1 +1,16 @@
+[NOTE]
+====
+This operation requires administrator privileges. +
+Second . +
+third.
+====
 
+[WARNING]
+====
+Existing project data may be overwritten.
+====
+
+[TIP]
+====
+Save your project before changing these settings.
+====
